@@ -47,7 +47,7 @@ To reward players fairly, we’ve integrated Honeycomb Protocol with real-time t
 > 📦 This is a desktop Unreal Engine game.
 > You must install Unreal Engine 5.1+ to run the .uproject.
 
-* 🔽 [Click here to download the full source code on GitHub](https://drive.google.com/file/d/1E9bCXJVtEEB2lq_NBZj_z4V4S-KBeKc5/view)
+* 🔽 [Click here to download the full source code ](https://drive.google.com/file/d/1E9bCXJVtEEB2lq_NBZj_z4V4S-KBeKc5/view)
 * 💻 After downloading:
 
   1. Extract the ZIP file
