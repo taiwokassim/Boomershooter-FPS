@@ -55,6 +55,7 @@ To reward players fairly, we’ve integrated Honeycomb Protocol with real-time t
   3. Click Play to launch the game
 
 ---
+# ⚠️⚠️⚠️ Honeycomb Integration (Simulated) ⚠️⚠️⚠️
 
 ## 🎯 Honeycomb Integration (Simulated)
 
@@ -81,3 +82,13 @@ This project simulates a mission submission using the Honeycomb Protocol.
 * You must be connected to the Backpack Wallet before accessing the game.
 * This version is for demo/bounty purposes only — future updates will support real rewards on mainnet.
 * The game may require decent PC specs to run smoothly.
+
+
+  QUICK SUMMARY
+
+  🧪 How This Project Uses Honeycomb
+- Connects wallet via Backpack on Devnet
+- Displays 1,000 test tokens after connection
+- Lets players download and play the game
+- Includes a button to simulate on-chain mission submission (real API call coming after mission dashboard access)
+
