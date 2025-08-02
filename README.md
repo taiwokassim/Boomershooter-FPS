@@ -56,6 +56,17 @@ To reward players fairly, we’ve integrated Honeycomb Protocol with real-time t
 
 ---
 
+## 🎯 Honeycomb Integration (Simulated)
+
+This project simulates a mission submission using the Honeycomb Protocol.
+
+- A "Submit to Chain" button is available after wallet connection
+- Intended integration: `POST /v1/complete` with wallet address and mission_id
+- Due to limited access to the Mission Dashboard, we have simulated the submission instead
+- This reflects an accurate understanding of Honeycomb’s mechanics and will be completed with live mission_id once available
+
+
+
 ### 🧠 Tech Powered By:
 
 * 🎮 Unreal Engine 5
