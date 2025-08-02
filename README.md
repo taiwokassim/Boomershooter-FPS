@@ -83,6 +83,10 @@ This project simulates a mission submission using the Honeycomb Protocol.
 * This version is for demo/bounty purposes only — future updates will support real rewards on mainnet.
 * The game may require decent PC specs to run smoothly.
 
+🚀 **Built for the Long Game**
+Boomer Shooter isn't just a demo — it's a fully playable FPS foundation built in Unreal Engine, designed to grow into a complete, reward-driven multiplayer experience. From wallet connection and token logic to immersive gameplay, this project lays the groundwork for future features like real-time PvP, XP-based progression, and weekly leaderboard rewards. This bounty version is just the start of a much larger vision.
+
+
 
   QUICK SUMMARY
 
